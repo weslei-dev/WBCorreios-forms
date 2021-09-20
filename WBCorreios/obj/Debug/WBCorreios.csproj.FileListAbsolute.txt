@@ -1,0 +1,10 @@
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.Form1.resources
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.Properties.Resources.resources
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.csproj.GenerateResource.cache
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\bin\Debug\WBCorreios.exe.config
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\bin\Debug\WBCorreios.exe
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\bin\Debug\WBCorreios.pdb
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.exe
+C:\Users\wesle\source\repos\WBCorreios\WBCorreios\obj\Debug\WBCorreios.pdb
